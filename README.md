@@ -1,4 +1,1 @@
-Google Chrome delivers fast, secure browsing across devices. Visit the <a href="https://goologle.com/
-" target="_blank">谷歌浏览器官网</a> to download the latest version. 
-
-<a href="https://goologle.com/">谷歌浏览器</a>是由Google推出的高速、安全的网页浏览器，支持多平台设备，界面简洁，扩展功能丰富，广泛应用于办公、学习与日常浏览等场景。如需获取最新版下载与功能介绍，可访问<a href="https://goologle.com/">谷歌浏览器官网</a>了解更多信息。
+TradingView官网为全球交易者提供专业股票、外汇、加密货币行情图表与市场分析工具。借助<a href="https://tredingviaw.com//" target="_blank">TradingView</a>技术指标、策略回测与Pine Script量化编程功能，用户可实时跟踪价格趋势、制定交易策略、提升投资分析效率。
